@@ -1,5 +1,12 @@
-div{
+div {
   display: flex;
   justify-content: center;
   align-items: center;
+  flex-direction: column;
+  margin: 100px;
+  margin: 100px;
+  padding: 300px;
+  bacbackground-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
